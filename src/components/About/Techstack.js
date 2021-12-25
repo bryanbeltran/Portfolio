@@ -1,16 +1,17 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { CgCPlusPlus } from "react-icons/cg";
-import {SiJava} from "react-icons/si"
 import {
-  DiJavascript1,
-  DiReact,
-  DiNodejs,
-  DiMongodb,
-  DiPython,
-  DiGit,
-} from "react-icons/di";
-import { SiPytorch, SiTensorflow, SiFirebase } from "react-icons/si";
+  SiJava,
+  SiSelenium,
+  SiReact,
+  SiMysql,
+  SiPython,
+  SiGit,
+  SiTerraform,
+  SiPowershell,
+  SiDatadog,
+  SiCucumber
+} from "react-icons/si"
 
 function Techstack() {
   return (
@@ -19,31 +20,31 @@ function Techstack() {
         <SiJava />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiJavascript1 />
+        <SiSelenium />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiNodejs />
+        <SiReact />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiReact />
+        <SiMysql />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiMongodb />
+        <SiPython />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiPython />
+        <SiGit />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiPytorch />
+        <SiCucumber />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiTensorflow />
+        <SiPowershell />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiGit />
+        <SiDatadog />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiFirebase />
+        <SiTerraform />
       </Col>
     </Row>
   );

@@ -34,18 +34,7 @@ function Home2() {
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+              When possible I'm in the woods camping, hiking, or taking in the great outdoors.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -56,10 +45,9 @@ function Home2() {
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
-            <h1>FIND ME ON</h1>
-            <p>
+            <h1>
               Feel free to <span className="purple">connect </span>with me
-            </p>
+            </h1>
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a

@@ -1,7 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0-BRYAN<br/>
   <a href="https://bryanbeltran.us/" target="_blank">bryanbeltran.us</a>
-  <a hreh="https://github.com/soumyajit4419/Portfolio" target="_blank">Credit to Soumyajit4419 for his original works.</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />

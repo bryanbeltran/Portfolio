@@ -26,11 +26,12 @@
 </h3>
 
 ## Credit
-Credit goes to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio); this project is based on his work.
+Credit goes to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio); this project is based entirely on his work.
+
+## Description
+My personal portfolio <a href="https://bryanbeltran.us/" target ="_blank">bryanbeltran.us</a>. Features projects (coming soon), resume, and technical skills & tool stack.
 
 ## Built With
-
-My personal portfolio <a href="https://bryanbeltran.us/" target="_blank">bryanbeltran.us</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies:
 

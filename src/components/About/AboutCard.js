@@ -8,9 +8,7 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            I'm <span className="purple">Bryan Beltran; </span>
-            I live in <span className="purple"> Bloomington, Minnesota.</span>
-            <br />I am a Software Engineer at Chewy. I'm an alumnus of Minnesota State University Mankato, and I'm a proud pet parent of three cats (Leo, Louis, and Felix).
+            <br />I am a Software Engineer at Chewy's Minneapolis location. I'm an alumnus of Minnesota State University Mankato, and I'm a proud pet parent of three cats (Leo, Louis, and Felix).
             <br />
             <br />
             Apart from programming, some other activities I enjoy include:
